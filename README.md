@@ -20,7 +20,7 @@ Trabajar con limpieza de datos, manipulación de DataFrames con Python y visuali
 ## Cómo ejecutarlo
 1. Clonar el repositorio.
 2. Crear un entorno virtual: `python -m venv venv`.
-3. Activar el entorno e instalar dependencias: `pip install -r requirements.txt` (proximamente).
+3. Activar el entorno e instalar dependencias: `pip install -r requirements.txt`.
 4. Ejecutar el archivo `analisis_netflix.ipynb`.
 
 ---
