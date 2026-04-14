@@ -1,0 +1,15 @@
+# Entornos virtuales 
+venv/
+env/
+[Vv]env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema (Windows)
+Thumbs.db
+desktop.ini
